@@ -9,7 +9,7 @@ A modern, fully responsive personal portfolio website built with **ReactJS** and
 Check out the live version of this portfolio here:  
 [Live Portfolio Demo](https://my-portfolio-react-lime.vercel.app/)
 
-_(Replace the above link with your actual deployed URL)_
+
 
 ---
 
